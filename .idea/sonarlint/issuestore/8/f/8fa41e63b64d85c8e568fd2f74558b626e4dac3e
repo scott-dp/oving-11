@@ -1,0 +1,65 @@
+
+m	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÛ©¥8Ú¤°®º1
+ˆ
+java:S1488Š"eImmediately return this expression instead of assigning it to the temporary variable "funneteiendom".(†»ˆÎüÿÿÿÿ8Ú¤°®º1
+s	java:S116	"WRename this field "ADD_PROPERTY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úì©†8¶¥°®º1
+	java:S116
+"^Rename this field "LIST_ALL_PROPERTIES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÿ«øÿÿÿÿ8¶¥°®º1
+t	java:S116"XRename this field "FIND_PROPERTY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Šóí8¶¥°®º1
+}	java:S116"aRename this field "CALCULATE_AVERAGE_AREA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ù´Õ8¶¥°®º1
+p	java:S116"ORename this field "EXIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁêÇûÿÿÿÿ8¶¥°®º1
+>
+java:S1170	"!Make this final field static too.(úì©†8¶¥°®º1
+C
+java:S1170
+"!Make this final field static too.(¡ÿ«øÿÿÿÿ8¶¥°®º1
+>
+java:S1170"!Make this final field static too.(’Šóí8¶¥°®º1
+>
+java:S1170"!Make this final field static too.(§ù´Õ8¶¥°®º1
+C
+java:S1170"!Make this final field static too.(ÁêÇûÿÿÿÿ8¶¥°®º1
+G	java:S106"+Replace this use of System.out by a logger.(òÉâ®8º¥°®º1
+L	java:S106"+Replace this use of System.out by a logger.(¸°†øÿÿÿÿ8»¥°®º1
+L	java:S106"+Replace this use of System.out by a logger.(Å¯³“øÿÿÿÿ8»¥°®º1
+L	java:S106"+Replace this use of System.out by a logger.(§â„ùÿÿÿÿ8»¥°®º1
+L	java:S106"+Replace this use of System.out by a logger.(ıê³ìşÿÿÿÿ8»¥°®º1
+L	java:S106"+Replace this use of System.out by a logger.(ÿœüşÿÿÿÿÿ8»¥°®º1
+L	java:S106"+Replace this use of System.out by a logger.(ºéÛ‰üÿÿÿÿ8»¥°®º1
+L	java:S106"+Replace this use of System.out by a logger.(µ§üÉıÿÿÿÿ8»¥°®º1
+L	java:S106!"+Replace this use of System.out by a logger.(¿‡øÿÿÿÿ8¼¥°®º1
+G	java:S106'"+Replace this use of System.out by a logger.(ö«á°8ÌâÍ®º1
+G	java:S106+"+Replace this use of System.out by a logger.(ùôŸ8ÌâÍ®º1
+L	java:S106."+Replace this use of System.out by a logger.(“ Ïñşÿÿÿÿ8ÍâÍ®º1
+L	java:S1064"+Replace this use of System.out by a logger.(îêãøÿÿÿÿ8ÍâÍ®º1
+L	java:S1068"+Replace this use of System.out by a logger.(éÒ ®ÿÿÿÿÿ8ÍâÍ®º1
+L	java:S106>"+Replace this use of System.out by a logger.(±£óŒùÿÿÿÿ8ÍâÍ®º1
+G	java:S106B"+Replace this use of System.out by a logger.(˜ÌÑ¯8ÎâÍ®º1
+G	java:S106K"+Replace this use of System.out by a logger.(ş×¢ƒ8ÎâÍ®º1
+G	java:S106N"+Replace this use of System.out by a logger.(ÀŸ³û8ÎâÍ®º1
+L	java:S106T"+Replace this use of System.out by a logger.(·ôèõüÿÿÿÿ8ÎâÍ®º1
+G	java:S106Z"+Replace this use of System.out by a logger.(‘ëÌ€8ÏâÍ®º1
+G	java:S106c"+Replace this use of System.out by a logger.(‘ëÌ€8ÏâÍ®º1
+G	java:S106l"+Replace this use of System.out by a logger.(³âÜÓ8ĞâÍ®º1
+G	java:S106s"+Replace this use of System.out by a logger.(õåâ8ĞâÍ®º1
+L	java:S106w"+Replace this use of System.out by a logger.(“ Ïñşÿÿÿÿ8ĞâÍ®º1
+L	java:S106|"+Replace this use of System.out by a logger.(˜•ê¹şÿÿÿÿ8ĞâÍ®º1
+M	java:S106€"+Replace this use of System.out by a logger.(éÒ ®ÿÿÿÿÿ8ĞâÍ®º1
+M	java:S106…"+Replace this use of System.out by a logger.(˜•ê¹şÿÿÿÿ8ÑâÍ®º1
+G	java:S106"+Replace this use of System.out by a logger.(È½Œ?8ÑâÍ®º1
+M	java:S106 "+Replace this use of System.out by a logger.(ö˜¿åıÿÿÿÿ8ÒâÍ®º1
+H	java:S106¥"+Replace this use of System.out by a logger.(Í¡ Õ8ÒâÍ®º1
+M	java:S106¬"+Replace this use of System.out by a logger.(™‹­ûÿÿÿÿ8ÓâÍ®º1
+M	java:S106±"+Replace this use of System.out by a logger.(¦ã«”ÿÿÿÿÿ8ÓâÍ®º1
+M	java:S106´"+Replace this use of System.out by a logger.(ÈÆÇùşÿÿÿÿ8ÓâÍ®º1
+M	java:S106¸"+Replace this use of System.out by a logger.(É¨öûÿÿÿÿ8ÓâÍ®º1
+W
+java:S6213¾":Rename this variable to not match a restricted identifier.(“Å† 8ÓâÍ®º1
+X
+java:S1854Ê":Remove this useless assignment to local variable "varDbl".(¬»Ö³8ÔâÍ®º1
+X
+java:S6213È":Rename this variable to not match a restricted identifier.(Œ¢ûğ8ÔâÍ®º1
+I
+java:S1481Ê"+Remove this unused "varDbl" local variable.(¬»Ö³8ÔâÍ®º1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8Â¥°®º1
